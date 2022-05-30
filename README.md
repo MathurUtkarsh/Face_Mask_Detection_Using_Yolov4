@@ -4,7 +4,7 @@
 # Mask detection using YOLOv4
 This repository contains the 4 custom files needed. (i.e. yolov4-custom.cfg, obj.data, obj.names and process.py) except obj.zip(labeled images).
 
-I hade uploaded my colab notebook also where I had created a #custom object detector using Yolo-v4# to detect wether person is wearing a mask or not. I had imported darnet in my project from https://github.com/AlexeyAB/darknet/.
+I had uploaded my colab notebook also where I had created a # custom object detector using Yolo-v4 # to detect whether a person is wearing a mask or not. I had imported darknet in my project from https://github.com/AlexeyAB/darknet/.
 
 Here I had used only two labels:
 1.) Mask

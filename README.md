@@ -8,6 +8,7 @@ I had uploaded my colab notebook also where I had created a  `custom object dete
 
 Here I had used only two labels:
 1.) Mask
+
 2.) Without Mask
 
 The obj.zip file contains 1510 images along with their YOLO labeled text files. I have labeled around 1350 of these and downloaded 149 labeled images from roboflow. I have given the links for my dataset sources at the bottom. You can download it from my drive - 

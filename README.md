@@ -1,5 +1,8 @@
 
 # Mask detection using YOLOv4
+
+![image5](https://user-images.githubusercontent.com/78642104/171058495-8ff1e87a-4172-423a-bf01-dd8ed83127ec.png)
+
 This repository contains the 4 custom files needed. (i.e. yolov4-custom.cfg, obj.data, obj.names and process.py) except obj.zip(labeled images).
 
 I had uploaded my colab notebook also where I had created a  `custom object detector using Yolo-v4` to detect whether a person is wearing a mask or not. I had imported darknet in my project from https://github.com/AlexeyAB/darknet/.
@@ -15,8 +18,6 @@ The obj.zip file contains 1510 images along with their YOLO labeled text files. 
 https://drive.google.com/file/d/15qIgsoo3m6P4E7GhaOYPHFe4zsrj55g3/view?usp=sharing
 
 This dataset has mostly close-up images (around 1300) and very few long-shot images (around 200). 
-
-![image5](https://user-images.githubusercontent.com/78642104/171058495-8ff1e87a-4172-423a-bf01-dd8ed83127ec.png)
 
 # Interesting Result 
 

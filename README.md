@@ -1,5 +1,3 @@
-# Face Mask Detection 
-![image1](https://user-images.githubusercontent.com/78642104/171057390-cf4d720b-1e0d-4e29-8055-59d80e71904b.png)
 
 # Mask detection using YOLOv4
 This repository contains the 4 custom files needed. (i.e. yolov4-custom.cfg, obj.data, obj.names and process.py) except obj.zip(labeled images).
@@ -26,4 +24,4 @@ See Elon Msuk is not wearing mask 😂
 
 ![image6](https://user-images.githubusercontent.com/78642104/235326569-0f7b3516-bdb0-4275-a277-77e78422e344.png)
 
-**Note:** You can see result on more images in result folder.
+**Note:** You can see result on more images in prediction folder.

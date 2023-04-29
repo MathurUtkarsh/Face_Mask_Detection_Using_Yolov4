@@ -22,4 +22,7 @@ This dataset has mostly close-up images (around 1300) and very few long-shot ima
 
 # Interesting Result 
 
+See Elon Msuk is not wearing mask 😂
+
+![image6](https://user-images.githubusercontent.com/78642104/235326569-0f7b3516-bdb0-4275-a277-77e78422e344.png)
 
